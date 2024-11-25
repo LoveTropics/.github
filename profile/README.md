@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lovetropics.org">
-    <img src="https://lovetropics.org/static/images/lt22_logo.svg" width="50%">
+    <img src="https://static.lovetropics.org/logo.svg" width="50%">
   </a>
 </p>
 
